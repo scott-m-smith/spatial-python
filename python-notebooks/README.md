@@ -7,4 +7,4 @@ Contains Jupyter Notebooks with example code and methods to manage spatial data 
 * `esri-to-python-compare.ipynb`
   * A series of comparisons between Esri Geoprocessing tools and Python functions
 * `geo-decorators.ipynb`
-  * Various Python decorators useful in or specific to geographic analysis
+  * Various Python decorators useful in or specific to geospatial analysis
